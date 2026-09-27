@@ -1,6 +1,6 @@
 
 /* ============ build 15: paying yourself, benefits, letting people go, acquisitions, selling up ============ */
-const BUILD=137;
+const BUILD=138;
 const REVIEW_H=4;
 const YEAR=DPM*12, PROBATION=DPM*6;
 const diaryFull=()=>(S.co.busy||0)>=8;
