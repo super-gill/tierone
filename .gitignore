@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# dependencies / build scratch
+node_modules/
+/tmp/
+*.log
+
+# import scratch
+*.tar.gz
